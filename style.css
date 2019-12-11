@@ -16,44 +16,40 @@ h1 {
 	text-shadow: -2px 0 white;
 	color:#000080;
 }
-.first1 {
-	position:relative;
-	float:left;
-	padding-left: 15px;
-	padding-top:10px;
-	font-size: 20px;
+.first1{
+	text-align:center;
+	margin-top: 6px;
+}
+.btn{
+	border: none;
+	background: none;
+	padding: 5px 12px;
+}
+.btn1{
+	font-size: 17px;
 	text-shadow: -1px 0 white;
 	color:#000080;
+	font-weight: bold;
 }
-.first2 {
-	position:relative;
-	float:left;
-	padding-left: 25px;
-	padding-top:10px;
+.btn2{
+	font-size: 17px;
+	text-shadow: -1px 0 white;
+	color:#000080;
+	font-weight: bold;
+}
+.btn3{
+	font-size: 17px;
+	text-shadow: -1px 0 white;
+	color:#000080;
+	font-weight: bold;
+}
+.btn4{
+	font-size: 17px;
+	text-shadow: -1px 0 white;
+	color:#000080;
+	font-weight: bold;
+}
 
-	font-size: 20px;
-	text-shadow: -1px 0 white;
-	color:#000080;
-}
-.first3 {
-	position:relative;
-	float:left;
-	padding-left: 35px;
-	padding-top:10px;
-	font-size: 20px;
-	text-shadow: -1px 0 white;
-	color:#000080;
-}
-.first4 {
-	position:relative;
-	float:left;
-	padding-left: 45px;
-	padding-right: 20px;
-	padding-top:10px;
-	font-size: 20px;
-	text-shadow: -1px 0 white;
-	color:#000080;
-}
 .head2 {
 	background-color:#FFFAFA;
 }
@@ -82,47 +78,7 @@ h1 {
 	color:#000080;
 	letter-spacing: 25px;
 }
-.first1 {
-	position:relative;
-	float:left;
-	width: 20%;
-	padding-left: 12%;
-	padding-top:90px;
-	font-size: 35px;
-	text-shadow: -1px 0 white;
-	color:#000080;
-	letter-spacing: 5px;
-}
-.first2 {
-	position:relative;
-	float:left;
-	width: 20%;
-	padding-top:90px;
-	font-size: 35px;
-	text-shadow: -1px 0 white;
-	color:#000080;
-	letter-spacing: 5px;
-}
-.first3 {
-	position:relative;
-	float:left;
-	width: 20%;
-	padding-top:90px;
-	font-size: 35px;
-	text-shadow: -1px 0 white;
-	color:#000080;
-	letter-spacing: 3px;
-}
-.first4 {
-	position:relative;
-	float:left;
-	width: 20%;
-	padding-top:90px;
-	font-size: 35px;
-	text-shadow: -1px 0 white;
-	color:#000080;
-	letter-spacing: 5px;
-}
+
 .head2 {
 	float: left;
 	width:50%;
@@ -141,5 +97,46 @@ p {
 	font-size:22px;
 	letter-spacing: 0.5px;
 }
-	
+.first1{
+	text-align:center;
+	margin-top: 50px;
+}
+.btn{
+	border: none;
+	background: none;
+	padding: 15px 75px;
+}
+.btn1{
+	font-size: 35px;
+	text-shadow: -1px 0 white;
+	color:#000080;
+	font-weight: bold;
+}
+
+.btn2{
+	margin-left: 145px;
+	font-size: 35px;
+	text-shadow: -1px 0 white;
+	color:#000080;
+	font-weight: bold;
+}
+.btn3{
+	margin-left: 145px;
+	font-size: 35px;
+	text-shadow: -1px 0 white;
+	color:#000080;
+	font-weight: bold;
+}
+.btn4{
+	margin-left: 145px;
+	font-size: 35px;
+	text-shadow: -1px 0 white;
+	color:#000080;
+	font-weight: bold;
+}
+
+
+
+
+
 }
