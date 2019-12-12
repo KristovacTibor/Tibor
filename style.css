@@ -36,6 +36,7 @@ h1 {
 	text-shadow: -1px 0 white;
 	color:#000080;
 	font-weight: bold;
+	border-bottom: solid 2px;
 }
 .btn3{
 	font-size: 17px;
@@ -119,6 +120,7 @@ p {
 	text-shadow: -1px 0 white;
 	color:#000080;
 	font-weight: bold;
+	border-bottom: solid 3px;
 }
 .btn3{
 	margin-left: 145px;
