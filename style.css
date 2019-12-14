@@ -23,6 +23,14 @@ h2 {
 	font-size:28px;
 	letter-spacing: 0.5px;
 }
+h3{
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	font-size:18px;
+	letter-spacing: 0.5px;
+}
 
 .first1{
 	text-align:center;
@@ -56,6 +64,15 @@ h2 {
 	float: left;
 }
 .btn4{
+	margin-left: 15px;
+	margin-top: 10px;
+	font-size: 18px;
+	text-shadow: -1px 0 white;
+	color:#000080;
+	font-weight: bold;
+	float: left;
+}
+.btn5{
 	margin-left: 15px;
 	margin-top: 10px;
 	font-size: 18px;
@@ -176,7 +193,7 @@ p {
 }
 
 .btn1{
-	margin-left: 195px;
+	margin-left: 150px;
 	margin-top: 40px;
 	font-size: 35px;
 	text-shadow: -1px 0 #FFE4B5;
@@ -184,7 +201,7 @@ p {
 	font-weight: bold;
 	float: left;
 	border: solid 2px;
-	width: 110px;
+	width: 15%;
 	height: 40px;
 	border-radius: 8px 8px 8px 8px;
 }
@@ -192,7 +209,7 @@ p {
 	background-color: #FFE4B5;
 }
 .btn2{
-	margin-left: 195px;
+	
 	margin-top: 40px;
 	font-size: 35px;
 	text-shadow: -1px 0 #FFE4B5;
@@ -200,7 +217,7 @@ p {
 	font-weight: bold;
 	float: left;
 	border: solid 2px;
-	width: 120px;
+	width: 15%;
 	height: 40px;
 	border-radius: 8px 8px 8px 8px;
 }
@@ -208,7 +225,7 @@ p {
 	background-color: #FFE4B5;
 }
 .btn3{
-	margin-left: 195px;
+	
 	margin-top: 40px;
 	font-size: 35px;
 	text-shadow: -1px 0 #FFE4B5;
@@ -216,7 +233,7 @@ p {
 	font-weight: bold;
 	float: left;
 	border: solid 2px;
-	width: 90px;
+	width: 15%;
 	height: 40px;
 	border-radius: 8px 8px 8px 8px;
 }
@@ -224,7 +241,7 @@ p {
 	background-color: #FFE4B5;
 }
 .btn4{
-	margin-left: 195px;
+	
 	margin-top: 40px;
 	font-size: 35px;
 	text-shadow: -1px 0 #FFE4B5;
@@ -232,7 +249,7 @@ p {
 	font-weight: bold;
 	float: left;
 	border: solid 2px;
-	width: 180px;
+	width: 15%;
 	height: 40px;
 	border-radius: 8px 8px 8px 8px;
 }
@@ -240,7 +257,7 @@ p {
 	background-color: #FFE4B5;
 }
 .btn5{
-	margin-left: 195px;
+	
 	margin-top: 40px;
 	font-size: 35px;
 	text-shadow: -1px 0 #FFE4B5;
@@ -248,7 +265,7 @@ p {
 	font-weight: bold;
 	float: left;
 	border: solid 2px;
-	width: 140px;
+	width: 15%;
 	height: 40px;
 	border-radius: 8px 8px 8px 8px;
 }
