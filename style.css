@@ -20,11 +20,6 @@ h1 {
 	text-align:center;
 	margin-top: 6px;
 }
-.btn{
-	border: none;
-	background: none;
-	padding: 5px 12px;
-}
 .btn1{
 	font-size: 17px;
 	text-shadow: -1px 0 white;
@@ -53,6 +48,9 @@ h1 {
 .head2 {
 	background-color:#FFFAFA;
 }
+.head2 {
+	background-color:#FFFAFA;
+}
 p {
 	padding-top: 15px;
 	padding-left: 20px;
@@ -64,8 +62,8 @@ p {
 @media only screen and (min-width: 768px){
 .head1 {
 	background-image: linear-gradient(to right, orange , tomato);
-	height: 250px;
-	padding-top: 30px;
+	height: 270px;
+	padding-top: 40px;
 	margin-bottom: 10px;
 }
 h1 {
@@ -73,10 +71,18 @@ h1 {
 	padding-left: 20px;
 	padding-right: 20px;
 	text-align:center;
-	font-size: 70px;
+	font-size: 75px;
 	text-shadow: -3px 0 white;
 	color:#000080;
 	letter-spacing: 25px;
+}
+h2 {
+	padding-top: 10px;
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-bottom: 10px;
+	font-size:38px;
+	letter-spacing: 0.5px;
 }
 
 .head2 {
@@ -84,8 +90,18 @@ h1 {
 	width:50%;
 	padding-top: 20px;
 }
+.head3 {
+	float: right;
+	width:50%;
+	padding-top: 20px;
+}
 .image1 {
 	float: right;
+	width: 50%;
+	padding-top:150px;
+}
+.image2 {
+	float: left;
 	width: 50%;
 	padding-top:150px;
 }
@@ -101,42 +117,53 @@ p {
 	text-align:center;
 	margin-top: 50px;
 }
-.btn{
-	border: none;
-	background: none;
-	padding: 15px 75px;
-}
+
 .btn1{
+	margin-left: 225px;
+	margin-top: 40px;
 	font-size: 35px;
 	text-shadow: -1px 0 white;
 	color:#000080;
 	font-weight: bold;
+	float: left;
 }
 
 .btn2{
-	margin-left: 145px;
+	margin-left: 225px;
+	margin-top: 40px;
 	font-size: 35px;
 	text-shadow: -1px 0 white;
 	color:#000080;
 	font-weight: bold;
+	float: left;
 }
 .btn3{
-	margin-left: 145px;
+	margin-left: 225px;
+	margin-top: 40px;
 	font-size: 35px;
 	text-shadow: -1px 0 white;
 	color:#000080;
 	font-weight: bold;
+	float: left;
 }
 .btn4{
-	margin-left: 145px;
+	margin-left: 225px;
+	margin-top: 40px;
 	font-size: 35px;
 	text-shadow: -1px 0 white;
 	color:#000080;
 	font-weight: bold;
+	float: left;
 }
-
-
-
+.btn5{
+	margin-left: 225px;
+	margin-top: 40px;
+	font-size: 35px;
+	text-shadow: -1px 0 white;
+	color:#000080;
+	font-weight: bold;
+	float: left;
+}
 
 
 }
