@@ -7,6 +7,9 @@
 	height: 100px;
 	padding-bottom:15px;
 }
+.name1{
+	display:none;
+}
 h1 {
 	padding-top: 30px;
 	padding-left: 20px;
@@ -91,9 +94,6 @@ h3{
 .head4 {
 	background-color:#FFE4B5;
 }
-h3{
-	background-color:#FFE4B5;
-}
 p {
 	padding-top: 15px;
 	padding-left: 20px;
@@ -133,10 +133,11 @@ h2 {
 	letter-spacing: 0.5px;
 }
 h3{
-	padding-top: 30px;
-	padding-bottom: 30px;
+	padding-top: 10px;
+	padding-bottom: 10px;
 	text-align: center;
 	font-size: 35px;
+	letter-spacing: 1px;
 	color:#000080;
 	text-shadow: -2px 0 white;
 	margin-left: 5px;
@@ -178,6 +179,11 @@ h3{
 	float: right;
 	width: 50%;
 	padding-top:80px;
+}
+.image4 {
+	float: left;
+	width: 50%;
+	padding-top:50px;
 }
 p {
 	padding-top: 10px;
@@ -273,26 +279,28 @@ p {
 	background-color: #FFE4B5;
 }
 .block1{
-
+	background-color: #FDF5E6;
 	float: left;
 	width: 32%;
-	height: 1500px;
+	height: 500px;
 	margin-left: 20px;
+	border-radius: 20px 20px 20px 20px;
 }
 .block2{
-	background-color: green;
+	background-color: #FFFAF0;
 	float: left;
 	width: 32%;
-	height: 1500px;
+	height: 500px;
 	margin-left: 20px;
+	border-radius: 20px 20px 20px 20px;
 }
 .block3{
-	background-color: blue;
+	background-color: #FFF8DC;
 	float: left;
 	width: 32%;
-	height: 1500px;
+	height: 500px;
 	margin-left: 20px;
+	border-radius: 20px 20px 20px 20px;
 }
-
 
 }
