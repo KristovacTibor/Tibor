@@ -25,6 +25,7 @@ h2 {
 	padding-right: 30px;
 	font-size:28px;
 	letter-spacing: 0.5px;
+	text-align: center;
 }
 h3{
 	padding-top: 10px;
@@ -33,6 +34,7 @@ h3{
 	padding-bottom: 10px;
 	font-size:18px;
 	letter-spacing: 0.5px;
+	text-align: center;
 }
 
 .first1{
@@ -185,6 +187,14 @@ h3{
 	width: 50%;
 	padding-top:50px;
 }
+.image5 {
+	float: left;
+	width: 80%;
+	margin-left: 10%;
+	box-shadow: 2px 2px 5px black;
+	height: 200px;
+	
+}
 p {
 	padding-top: 10px;
 	padding-left: 30px;
@@ -213,6 +223,7 @@ p {
 }
 .btn1:hover{
 	background-color: #FFE4B5;
+	box-shadow: 5px 5px 5px black;
 }
 .btn2{
 	
@@ -229,6 +240,7 @@ p {
 }
 .btn2:hover{
 	background-color: #FFE4B5;
+	box-shadow: 5px 5px 5px black;
 }
 .btn3{
 	
@@ -245,6 +257,7 @@ p {
 }
 .btn3:hover{
 	background-color: #FFE4B5;
+	box-shadow: 5px 5px 5px black;
 }
 .btn4{
 	
@@ -261,6 +274,7 @@ p {
 }
 .btn4:hover{
 	background-color: #FFE4B5;
+	box-shadow: 5px 5px 5px black;
 }
 .btn5{
 	
@@ -277,12 +291,13 @@ p {
 }
 .btn5:hover{
 	background-color: #FFE4B5;
+	box-shadow: 5px 5px 5px black;
 }
 .block1{
 	background-color: #FDF5E6;
 	float: left;
 	width: 32%;
-	height: 500px;
+	height: 350px;
 	margin-left: 20px;
 	border-radius: 20px 20px 20px 20px;
 }
@@ -295,10 +310,10 @@ p {
 	border-radius: 20px 20px 20px 20px;
 }
 .block3{
-	background-color: #FFF8DC;
+	padding-top: 50px;
 	float: left;
 	width: 32%;
-	height: 500px;
+	height: 300px;
 	margin-left: 20px;
 	border-radius: 20px 20px 20px 20px;
 }
