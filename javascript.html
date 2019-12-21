@@ -6,7 +6,7 @@
 		<meta name="description" content="Ux and UI desing, All the basic information 	about the languages we use in web development">
 		<meta name="keywords" content="HTML, CSS, JavaScript, Web, UX and UI design">
 		<link href="https://fonts.googleapis.com/css?family=Sulphur+Point&display=swap" rel="stylesheet">
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">			
 	</head>
 	<body>
 		<div class="head1">
@@ -39,17 +39,27 @@
 			<p><span style="font-size:35px;">I</span>n JavaScript, most things are objects, from core JavaScript features like strings and arrays to the browser APIs built on top of JavaScript. You can even create your own objects to encapsulate related functions and variables into efficient packages. The object-oriented nature of JavaScript is important to understand if you want to go further with your knowledge of the language and write more efficient code.
 			</p>
 			<p>
-			<span style="font-size:35px;">H</span>ere is a simple exemple of what can we do with JavaScript. The following button will show us the current Date and Time after clicking on the button.
+			Here is a simple example of what can we do with JavaScript. The following button will show us a popup window which will have the following text inside "This is a example of Javascript!" also underneath is a different example of JavaScript, showing the current Date and Time.
 			</p>
 			<script type="text/javascript"> 
-			function show_now() { 
-			var my_time = new Date();
-			document.getElementById("dateandtime").innerHTML=my_time
+			function show() { 
+			var time = new Date();
+			document.getElementById("dateandtime").innerHTML=time
 			}
-			</script>
-			<input type="button" value="Show Date and Time" onclick="show_now();">
-			<div id="dateandtime"></div>			
 			
+			function exampleFunction() {
+			alert("This is a example of JavaScript!")
+			}
+			
+			</script>
+			
+			<div class="script2">
+			<button onClick="exampleFunction()">See the example</button>
+			</div>
+			<div class="script">
+			<button onClick="show();">Show Date and Time</button>			
+			<div id="dateandtime"></div>	
+			</div>
 			<p>Start your Javascript journey now: <a href="https://www.w3schools.com/js/default.asp" target="_blank">W3 School</a>
 			</p>
 		</div>

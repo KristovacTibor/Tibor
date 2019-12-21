@@ -192,8 +192,11 @@ h3{
 	width: 80%;
 	margin-left: 10%;
 	box-shadow: 2px 2px 5px black;
-	height: 200px;
-	
+	height: 200px;	
+}
+.image6 {
+	float: right;
+	padding-top:50px;
 }
 p {
 	padding-top: 10px;
@@ -302,7 +305,6 @@ p {
 	border-radius: 20px 20px 20px 20px;
 }
 .block2{
-	background-color: #FFFAF0;
 	float: left;
 	width: 32%;
 	height: 500px;
@@ -310,12 +312,27 @@ p {
 	border-radius: 20px 20px 20px 20px;
 }
 .block3{
-	padding-top: 50px;
 	float: left;
 	width: 32%;
 	height: 300px;
 	margin-left: 20px;
 	border-radius: 20px 20px 20px 20px;
+}
+.script{
+	margin-top: 20px;
+	text-align: center;
+	padding-bottom: 20px;
+} 
+.script2{
+	text-align: center;
+} 
+#dateandtime{
+	color: #FF0000;
+	text-align: center;
+	font-size: 25px;
+}
+ul{
+	font-size: 22px;
 }
 
 }
