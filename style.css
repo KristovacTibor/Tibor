@@ -103,9 +103,6 @@ p {
 	padding-bottom: 10px;
 	font-size:18px;
 }
-.image5{
-	display:none;
-}
 ul{
 	font-size: 18px;
 	padding-left: 30px;
@@ -195,6 +192,7 @@ h3{
 	width: 50%;
 }
 .image5 {
+	
 	float: left;
 	width: 80%;
 	margin-left: 10%;
