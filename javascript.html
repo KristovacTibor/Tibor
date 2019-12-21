@@ -39,8 +39,17 @@
 			<p><span style="font-size:35px;">I</span>n JavaScript, most things are objects, from core JavaScript features like strings and arrays to the browser APIs built on top of JavaScript. You can even create your own objects to encapsulate related functions and variables into efficient packages. The object-oriented nature of JavaScript is important to understand if you want to go further with your knowledge of the language and write more efficient code.
 			</p>
 			<p>
-			<span style="font-size:35px;">....</span>
-			</p>		
+			<span style="font-size:35px;">H</span>ere is a simple exemple of what can we do with JavaScript. The following button will show us the current Date and Time after clicking on the button.
+			</p>
+			<script type="text/javascript"> 
+			function show_now() { 
+			var my_time = new Date();
+			document.getElementById("dateandtime").innerHTML=my_time
+			}
+			</script>
+			<input type="button" value="Show Date and Time" onclick="show_now();">
+			<div id="dateandtime"></div>			
+			
 			<p>Start your Javascript journey now: <a href="https://www.w3schools.com/js/default.asp" target="_blank">W3 School</a>
 			</p>
 		</div>
