@@ -103,6 +103,14 @@ p {
 	padding-bottom: 10px;
 	font-size:18px;
 }
+.image5{
+	display:none;
+}
+ul{
+	font-size: 18px;
+	padding-left: 30px;
+}
+
 
 @media only screen and (min-width: 768px){
 .head1 {
@@ -185,7 +193,6 @@ h3{
 .image4 {
 	float: left;
 	width: 50%;
-	padding-top:50px;
 }
 .image5 {
 	float: left;
